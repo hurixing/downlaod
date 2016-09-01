@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://122.11.47.96:10000/download/dcys_v1.1.0.ipa</string>
+					<string>http://122.11.47.96:10000/download/dtys_v1.1.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>RTChatDemo</string>
+				<string>dtys</string>
 			</dict>
 		</dict>
 	</array>
